@@ -11,7 +11,7 @@
 #
 #4 -> Execute o power Shell
 #
-#5 -> navegue até o diretorio do projeto (Exemplo: "cd c:/<diretorio>/<do>/<projeto>/n8n")
+#5 -> navegue até o diretorio do projeto (Exemplo: "cd c:/diretorio/do/projeto/n8n")
 #
 #6 -> Execute o Comando abaixo:
 #    docker-compose up --build -d
